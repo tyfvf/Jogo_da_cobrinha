@@ -8,4 +8,5 @@
 ##### O jogo foi feito no NetBeans e totalmente em Java / The game was made in Java
 #
 
-![image](https://user-images.githubusercontent.com/75546113/113011390-2212ca00-9150-11eb-9ce6-942574f4c1c8.png)
+
+![image](https://user-images.githubusercontent.com/75546113/113011467-3787f400-9150-11eb-8ec0-672ec00395c1.png)
